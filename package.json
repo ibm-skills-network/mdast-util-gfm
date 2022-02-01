@@ -38,7 +38,7 @@
   "dependencies": {
     "mdast-util-gfm-autolink-literal": "1.0.2",
     "mdast-util-gfm-strikethrough": "^0.2.0",
-    "mdast-util-gfm-table": "^0.1.0",
+    "mdast-util-gfm-table": "1.0.2",
     "mdast-util-gfm-task-list-item": "^0.1.0",
     "mdast-util-to-markdown": "^0.6.1"
   },
