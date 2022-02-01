@@ -36,7 +36,7 @@
     "to-markdown.js"
   ],
   "dependencies": {
-    "mdast-util-gfm-autolink-literal": "^0.1.0",
+    "mdast-util-gfm-autolink-literal": "1.0.2",
     "mdast-util-gfm-strikethrough": "^0.2.0",
     "mdast-util-gfm-table": "1.0.2",
     "mdast-util-gfm-task-list-item": "^0.1.0",
@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "github-slugger": "^1.0.0",
-    "hast-util-to-html": "^7.0.0",
+    "hast-util-to-html": "8.0.3",
     "mdast-util-from-markdown": "^0.8.0",
     "mdast-util-to-hast": "^10.0.0",
     "micromark-extension-gfm": "^0.3.0",
@@ -54,7 +54,7 @@
     "remark-cli": "^9.0.0",
     "remark-preset-wooorm": "^8.0.0",
     "tape": "^5.0.0",
-    "xo": "^0.37.0"
+    "xo": "0.47.0"
   },
   "scripts": {
     "format": "remark . -qfo && prettier . -w --loglevel warn && xo --fix",
