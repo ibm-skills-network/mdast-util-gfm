@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "github-slugger": "^1.0.0",
-    "hast-util-to-html": "^7.0.0",
+    "hast-util-to-html": "8.0.3",
     "mdast-util-from-markdown": "^0.8.0",
     "mdast-util-to-hast": "^10.0.0",
     "micromark-extension-gfm": "^0.3.0",
